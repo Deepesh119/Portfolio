@@ -17,28 +17,36 @@ const Contact = () => {
         setFormData((prev) => ({ ...prev, [name]: value }));
     };
 
-    const handleSubmit = async (e: any) => {
-        e.preventDefault();
+ const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
 
-        try {
-            const response = await fetch("https://script.google.com/macros/s/AKfycbxRZ8D6YrZemT0CrybiFqsKpVZMxtYWXWlgjA3IQWFx3W0hO8gwioMLd1R8axB_17W9bA/exec", {
+    try {
+        const response = await fetch(
+            "https://script.google.com/macros/s/AKfycbxRZ8D6YrZemT0CrybiFqsKpVZMxtYWXWlgjA3IQWFx3W0hO8gwioMLd1R8axB_17W9bA/exec",
+            {
                 method: "POST",
-                body: JSON.stringify(formData),
                 headers: {
                     "Content-Type": "application/json",
                 },
-            });
+                body: JSON.stringify(formData),
+            }
+        );
 
-
-            const result = await response.json();
-
-            setFormData({ name: "", email: "", subject: "", message: "" });
-            alert("Message sent successfully!");
-        } catch (error) {
-            console.error("Error:", error);
-            alert("Failed to send message. Please try again.");
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
         }
-    };
+
+        const result = await response.json();
+        console.log("Server response:", result);
+
+        setFormData({ name: "", email: "", subject: "", message: "" });
+        alert("Message sent successfully!");
+    } catch (error) {
+        console.error("Error:", error);
+        alert("Failed to send message. Please try again.");
+    }
+};
+
 
     return (
         <section className={styles.container}>
@@ -107,3 +115,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
