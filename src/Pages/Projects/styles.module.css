@@ -5,7 +5,7 @@
 }
 
 .projectCard{
-    height: 600px;
+    height: auto;
     width: 800px;
     border: 1px solid white;
     text-align: center;
@@ -24,4 +24,5 @@
     font-size: 56px;
     font-weight: 600;
     margin-bottom: 30px;
+
 }
