@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
-import styles from "./index.module.css"
+import styles from "./Index.module.css"
 import Globe from "../../assets/Globe.jpg"
 
 const LanguageSelector = () => {
@@ -34,3 +34,4 @@ const LanguageSelector = () => {
 };
 
 export default LanguageSelector;
+
