@@ -1,0 +1,19 @@
+.conatiner{
+    height: 120px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hoverElement{
+    height:150px;
+    width:150px;
+    transition-delay: 100ms;
+}
+
+.element{
+    height: 100px;
+    width: 100px;
+}
+

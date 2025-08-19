@@ -1,0 +1,87 @@
+{
+   "about": "About",
+   "Professional": "Professional Journey",
+   "Updates": "Updates",
+   "project": "Project",
+   "contact": "Contact",
+   "article": "Article",
+   "intro": "✨ Hello, I'm Deepesh",
+   "intro2": "Fullstack Developer",
+   "intro3": "& Builder",
+   "intro4": "I build exceptional and accessible digital experiences for the web",
+   "view_project": "View Project",
+   "welcome": "Welcome to my website",
+   "landing_text": "This is the Landing Page",
+   "project1": "Joyalukkas.in – Online Jewellery Web Application",
+   "desc1": "Developed and maintained the official Joyalukkas online jewellery platform, enabling users to browse, select, and purchase jewellery products seamlessly. The web app integrates real-time inventory, secure payment options, and an interactive UI to enhance customer engagement.",
+   "desc1.1": "Key Features",
+   "desc1.2": "Implemented Product Catalogue & Filtering: Dynamic display of gold, diamond, and platinum jewellery with category filters, price sorting, and search functionality.",
+   "desc1.3": "Responsive UI: Fully responsive design ensuring a seamless experience across desktops, tablets, and mobile devices.",
+   "desc1.4": "Shopping Cart & Checkout: Interactive cart management with quantity adjustments, pricing calculations, and integration with secure payment gateways.",
+   "desc1.5": "User Account Management: Registration, login, orderhistory, and wishlist functionality for authenticated users.",
+   "desc1.6": "Real-Time Notifications: Alerts for offers, stock updates, and order confirmations.",
+   "desc1.7": "Performance Optimization: Lazy loading of images, code splitting, and caching to improve load times and user experience.",
+   "myDetails": {
+      "myabout1": "I am Deepesh Giri, a passionate software developer with 3 years of experience in building modern and scalable web applications. I specialize in React and Next.js for creating seamless user interfaces, along with Node.js and MongoDB for robust backend development. Over the years, I have worked on diverse projects that strengthened my expertise in frontend frameworks, full-stack development, and API integrations.",
+      "myabout2": "I love turning complex problems into simple, intuitive, and user-friendly solutions. My focus is on writing clean, efficient, and maintainable code while keeping performance and scalability in mind. I’m always eager to learn new technologies, explore better ways to solve problems, and contribute to impactful products.",
+      "myabout3": "When I’m not coding, I enjoy exploring tech trends, experimenting with new tools, and sharing knowledge with the developer community. My goal is to keep growing as a full-stack developer and contribute to building meaningful digital experiences."
+   },
+   "professionalExperience": "Professional Experience",
+   "experienceDetails": {
+      "experience1": {
+         "SITS": "Stratosphere IT Services"
+      }
+   },
+   "techStack": "Tech stacks",
+   "firstCore1T": "💎Quality First",
+   "firstCore1D": "Writing clean, maintainable code that stands the test of time",
+   "firstCore2T": "🚀Innovation",
+   "firstCore2D": "Embracing cutting-edge technologies to solve complex problems",
+   "firstCore3T": "🎯 User-Centric",
+   "firstCore3D": "Every decision is made with the end user's experience in mind",
+   "CoreValue": "Core Values I Follow During Development",
+   "disclaimer": "Disclaimer",
+   "disclaimer1t": "This portfolio web application is a work in progress and does not represent the final version of my personal website. The current content, design, and features are provided as an initial preview and are subject to significant updates and enhancements in upcoming phases. Over time, I will be adding new functionalities, improving the overall user experience, and integrating a backend system to make the platform more dynamic and interactive.",
+   "disclaimer2t": "Please note that some sections may be incomplete, placeholder content may exist, and certain features may not yet be functional. The purpose of releasing this version is to showcase the early foundation of my work and provide a glimpse into my technical skills, while I continue to refine and expand the application.",
+   "disclaimer3t": "Future updates will include performance optimizations, additional project showcases, blog/article sections, interactive elements, and other advanced features to give visitors a complete overview of my skills and capabilities.",
+   "disclaimer4t": "I appreciate your understanding and patience as I actively develop this platform, and I look forward to delivering a more polished, full-featured version in the near future.",
+   "featuredProjects": "Featured Projects",
+   "fetatureDetails": "A thoughtfully curated showcase of my recent work, highlighting innovative solutions and creative approaches to today’s web development challenges",
+   "workedproject1": "💻 10+ Project",
+   "workedproject11": "Delivered excellence in 10+ projects.More to go 🚀",
+   "workedproject2": "💎 Increased Business Revenue",
+   "workedproject21": "Boosting revenue with modern web solutions",
+   "workedproject3": "❤️ Happy Clients",
+   "workedproject31": "Delivering results clients truly love",
+   "experience1": {
+      "company": "MagicEdTech",
+      "role": "Senior Software Engineer",
+      "startDate": "2025/05",
+      "endDate": "2025/07"
+   },
+   "experience2": {
+      "company": "Stratosphere IT Services",
+      "role": "Senior Software Engineer",
+      "startDate": "2024/07",
+      "endDate": "2025/05"
+   },
+   "experience3": {
+      "company": "Electrovese Solutions Pvt Ltd",
+      "role": "Software Engineer",
+      "startDate": "2023/09",
+      "endDate": "2024/07"
+   },
+   "experience4": {
+      "company": "Emproto Technologies",
+      "role": "Software Engineer",
+      "startDate": "2022/01",
+      "endDate": "2023/01"
+   },
+   "detailsUpdateAbout":"Detail Update About Projects",
+   "projectSectionPara2":"Soon, you will be able to explore complete details of every project I have contributed to.The content you see here is regularly updated to reflect my ongoing work and achievements.Thank you for your patience and interest in my work!Stay tuned for more exciting projects coming soon.",
+   "projectSectionPara1":"I have worked on 10+ projects across various domains, and this portfolio showcases some of my latest work.This section is currently under progress as I continue to update it with my recent projects.I am working on the backend integration so that all new projects and updates will appear dynamically on the website.",
+   "contacttext1":"Get in Touch",
+   "contacttext2":" I’d love to hear from you! Whether it’s a project idea, collaboration, or just a hello.",
+   "generaltext":"I respond faster than my coffee cools ☕"
+   
+}

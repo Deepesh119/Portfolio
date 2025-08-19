@@ -1,0 +1,86 @@
+{
+   "about": "Über mich",
+   "Professional": "Beruflicher Werdegang",
+   "Updates": "Aktualisierungen",
+   "project": "Projekt",
+   "contact": "Kontakt",
+   "article": "Artikel",
+   "intro": "✨ Hallo, ich bin Deepesh",
+   "intro2": "Fullstack-Entwickler",
+   "intro3": "& Schöpfer",
+   "intro4": "Ich entwickle außergewöhnliche und zugängliche digitale Erlebnisse für das Web",
+   "view_project": "Projekt ansehen",
+   "welcome": "Willkommen auf meiner Website",
+   "landing_text": "Dies ist die Startseite",
+   "project1": "Joyalukkas.in – Online-Schmuck-Webanwendung",
+   "desc1": "Entwicklung und Wartung der offiziellen Joyalukkas Online-Schmuckplattform, die es Nutzern ermöglicht, Schmuckprodukte nahtlos zu durchstöbern, auszuwählen und zu kaufen. Die Webanwendung integriert Echtzeit-Inventar, sichere Zahlungsoptionen und eine interaktive Benutzeroberfläche, um das Kundenengagement zu verbessern.",
+   "desc1.1": "Hauptfunktionen",
+   "desc1.2": "Implementierung von Produktkatalog & Filterung: Dynamische Anzeige von Gold-, Diamant- und Platinschmuck mit Kategoriefiltern, Preissortierung und Suchfunktion.",
+   "desc1.3": "Responsive Benutzeroberfläche: Vollständig responsives Design für ein nahtloses Erlebnis auf Desktops, Tablets und Mobilgeräten.",
+   "desc1.4": "Warenkorb & Checkout: Interaktive Warenkorbverwaltung mit Mengenanpassungen, Preisberechnungen und Integration sicherer Zahlungsgateways.",
+   "desc1.5": "Benutzerkontoverwaltung: Registrierung, Anmeldung, Bestellverlauf und Wunschlistenfunktion für authentifizierte Nutzer.",
+   "desc1.6": "Echtzeit-Benachrichtigungen: Warnungen für Angebote, Lageraktualisierungen und Bestellbestätigungen.",
+   "desc1.7": "Leistungsoptimierung: Lazy Loading von Bildern, Code-Splitting und Caching zur Verbesserung der Ladezeiten und Benutzererfahrung.",
+   "myDetails": {
+      "myabout1": "Ich bin Deepesh Giri, ein leidenschaftlicher Softwareentwickler mit 3 Jahren Erfahrung in der Entwicklung moderner und skalierbarer Webanwendungen. Ich spezialisiere mich auf React und Next.js für die Erstellung nahtloser Benutzeroberflächen sowie auf Node.js und MongoDB für robuste Backend-Entwicklung. Im Laufe der Jahre habe ich an vielfältigen Projekten gearbeitet, die meine Expertise in Frontend-Frameworks, Full-Stack-Entwicklung und API-Integrationen gestärkt haben.",
+      "myabout2": "Ich liebe es, komplexe Probleme in einfache, intuitive und benutzerfreundliche Lösungen zu verwandeln. Mein Fokus liegt auf der Erstellung von sauberem, effizientem und wartbarem Code unter Berücksichtigung von Leistung und Skalierbarkeit. Ich bin stets bestrebt, neue Technologien zu lernen, bessere Wege zur Problemlösung zu erkunden und zu wirkungsvollen Produkten beizutragen.",
+      "myabout3": "Wenn ich nicht programmiere, erkunde ich gerne Technologie-Trends, experimentiere mit neuen Tools und teile mein Wissen mit der Entwickler-Community. Mein Ziel ist es, als Full-Stack-Entwickler weiter zu wachsen und zur Schaffung bedeutungsvoller digitaler Erlebnisse beizutragen."
+   },
+   "professionalExperience": "Berufserfahrung",
+   "experienceDetails": {
+      "experience1": {
+         "SITS": "Stratosphere IT Services"
+      }
+   },
+   "techStack": "Technologie-Stack",
+   "firstCore1T": "💎 Qualität zuerst",
+   "firstCore1D": "Sauberen, wartbaren Code schreiben, der die Zeit überdauert",
+   "firstCore2T": "🚀 Innovation",
+   "firstCore2D": "Einsatz modernster Technologien zur Lösung komplexer Probleme",
+   "firstCore3T": "🎯 Nutzerzentriert",
+   "firstCore3D": "Jede Entscheidung wird mit Blick auf die Erfahrung des Endnutzers getroffen",
+   "CoreValue": "Kernwerte, die ich während der Entwicklung verfolge",
+   "disclaimer": "Haftungsausschluss",
+   "disclaimer1t": "Diese Portfolio-Webanwendung ist in Arbeit und stellt nicht die endgültige Version meiner persönlichen Website dar. Der aktuelle Inhalt, das Design und die Funktionen dienen als erster Überblick und werden in den kommenden Phasen erheblich aktualisiert und verbessert. Mit der Zeit werde ich neue Funktionen hinzufügen, die Benutzererfahrung verbessern und ein Backend-System integrieren, um die Plattform dynamischer und interaktiver zu gestalten.",
+   "disclaimer2t": "Bitte beachten Sie, dass einige Abschnitte unvollständig sein können, Platzhalterinhalte vorhanden sein könnten und bestimmte Funktionen noch nicht vollständig funktionieren. Ziel dieser Version ist es, die frühen Grundlagen meiner Arbeit zu präsentieren und einen Einblick in meine technischen Fähigkeiten zu geben, während ich die Anwendung weiter verfeinere und erweitere.",
+   "disclaimer3t": "Zukünftige Updates werden Leistungsoptimierungen, zusätzliche Projektvorstellungen, Blog-/Artikelabschnitte, interaktive Elemente und andere fortschrittliche Funktionen umfassen, um Besuchern einen vollständigen Überblick über meine Fähigkeiten und Kompetenzen zu bieten.",
+   "disclaimer4t": "Ich danke Ihnen für Ihr Verständnis und Ihre Geduld, während ich diese Plattform aktiv weiterentwickle, und freue mich darauf, in naher Zukunft eine ausgefeiltere, funktionsreichere Version zu präsentieren.",
+   "featuredProjects": "Ausgewählte Projekte",
+   "fetatureDetails": "Eine sorgfältig kuratierte Präsentation meiner jüngsten Arbeiten, die innovative Lösungen und kreative Ansätze für die heutigen Herausforderungen der Webentwicklung hervorhebt",
+   "workedproject1": "💻 Über 10 Projekte",
+   "workedproject11": "Exzellenz in über 10 Projekten geliefert. Weitere folgen 🚀",
+   "workedproject2": "💎 Steigerung des Unternehmensumsatzes",
+   "workedproject21": "Umsatzsteigerung durch moderne Web-Lösungen",
+   "workedproject3": "❤️ Zufriedene Kunden",
+   "workedproject31": "Ergebnisse liefern, die Kunden wirklich begeistern",
+   "experience1": {
+      "company": "MagicEdTech",
+      "role": "Senior Software Engineer",
+      "startDate": "2025/05",
+      "endDate": "2025/07"
+   },
+   "experience2": {
+      "company": "Stratosphere IT Services",
+      "role": "Senior Software Engineer",
+      "startDate": "2024/07",
+      "endDate": "2025/05"
+   },
+   "experience3": {
+      "company": "Electrovese Solutions Pvt Ltd",
+      "role": "Software Engineer",
+      "startDate": "2023/09",
+      "endDate": "2024/07"
+   },
+   "experience4": {
+      "company": "Emproto Technologies",
+      "role": "Software Engineer",
+      "startDate": "2022/01",
+      "endDate": "2023/01"
+   },
+   "detailsUpdateAbout": "Detaillierte Updates zu Projekten",
+   "projectSectionPara2": "Bald können Sie die vollständigen Details zu jedem Projekt, an dem ich mitgewirkt habe, erkunden. Die hier gezeigten Inhalte werden regelmäßig aktualisiert, um meine laufenden Arbeiten und Erfolge widerzuspiegeln. Vielen Dank für Ihre Geduld und Ihr Interesse an meiner Arbeit! Bleiben Sie dran für weitere spannende Projekte, die bald kommen.",
+   "projectSectionPara1": "Ich habe an über 10 Projekten in verschiedenen Bereichen gearbeitet, und dieses Portfolio zeigt einige meiner neuesten Arbeiten. Dieser Abschnitt ist derzeit in Bearbeitung, da ich ihn weiterhin mit meinen aktuellen Projekten aktualisiere. Ich arbeite an der Backend-Integration, sodass alle neuen Projekte und Updates dynamisch auf der Website erscheinen.",
+   "contacttext1": "Kontakt aufnehmen",
+   "contacttext2": "Ich freue mich darauf, von Ihnen zu hören! Ob es sich um eine Projektidee, eine Zusammenarbeit oder einfach nur ein Hallo handelt.",
+   "generaltext": "Ich antworte schneller, als mein Kaffee kalt wird ☕"
+}

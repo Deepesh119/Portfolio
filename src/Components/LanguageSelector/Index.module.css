@@ -1,0 +1,36 @@
+.parent{
+    display: flex;
+    align-items: center;
+    gap:5px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    border: 2px solid white;
+    width: 200px;
+    justify-content: center;
+    border-radius: 5px;
+}
+.select{
+    height: 40px;
+    border-radius:6px;
+    width: 200px;
+    font-size: 18px;
+    border: none;
+    outline: none;
+}
+.languageIcon{
+    height: 40px;
+    border-radius: 20px;
+    animation-name: rotateImage;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    backface-visibility: hidden;
+}
+
+@keyframes rotateImage {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+}
+

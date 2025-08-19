@@ -1,0 +1,86 @@
+{
+   "about": "À propos",
+   "Professional": "Parcours professionnel",
+   "Updates": "Mises à jour",
+   "project": "Projet",
+   "contact": "Contact",
+   "article": "Article",
+   "intro": "✨ Bonjour, je suis Deepesh",
+   "intro2": "Développeur Fullstack",
+   "intro3": "& Créateur",
+   "intro4": "Je crée des expériences numériques exceptionnelles et accessibles pour le web",
+   "view_project": "Voir le projet",
+   "welcome": "Bienvenue sur mon site web",
+   "landing_text": "Ceci est la page d'accueil",
+   "project1": "Joyalukkas.in – Application web de bijouterie en ligne",
+   "desc1": "Développement et maintenance de la plateforme officielle de bijouterie en ligne Joyalukkas, permettant aux utilisateurs de parcourir, sélectionner et acheter des bijoux de manière fluide. L'application web intègre un inventaire en temps réel, des options de paiement sécurisées et une interface utilisateur interactive pour améliorer l'engagement des clients.",
+   "desc1.1": "Fonctionnalités clés",
+   "desc1.2": "Mise en œuvre du catalogue de produits et du filtrage : Affichage dynamique de bijoux en or, diamant et platine avec des filtres par catégorie, tri par prix et fonctionnalité de recherche.",
+   "desc1.3": "Interface utilisateur réactive : Conception entièrement réactive garantissant une expérience fluide sur ordinateurs, tablettes et appareils mobiles.",
+   "desc1.4": "Panier d'achat et paiement : Gestion interactive du panier avec ajustement des quantités, calculs de prix et intégration avec des passerelles de paiement sécurisées.",
+   "desc1.5": "Gestion des comptes utilisateurs : Inscription, connexion, historique des commandes et liste de souhaits pour les utilisateurs authentifiés.",
+   "desc1.6": "Notifications en temps réel : Alertes pour les offres, mises à jour de stock et confirmations de commande.",
+   "desc1.7": "Optimisation des performances : Chargement différé des images, division du code et mise en cache pour améliorer les temps de chargement et l'expérience utilisateur.",
+   "myDetails": {
+      "myabout1": "Je suis Deepesh Giri, un développeur logiciel passionné avec 3 ans d'expérience dans la création d'applications web modernes et évolutives. Je me spécialise dans React et Next.js pour créer des interfaces utilisateur fluides, ainsi que Node.js et MongoDB pour un développement backend robuste. Au fil des années, j'ai travaillé sur divers projets qui ont renforcé mon expertise dans les frameworks frontend, le développement full-stack et les intégrations d'API.",
+      "myabout2": "J'aime transformer des problèmes complexes en solutions simples, intuitives et conviviales. Mon objectif est d'écrire un code propre, efficace et maintenable tout en gardant à l'esprit les performances et l'évolutivité. Je suis toujours désireux d'apprendre de nouvelles technologies, d'explorer de meilleures façons de résoudre les problèmes et de contribuer à des produits impactants.",
+      "myabout3": "Quand je ne code pas, j'aime explorer les tendances technologiques, expérimenter de nouveaux outils et partager mes connaissances avec la communauté des développeurs. Mon objectif est de continuer à grandir en tant que développeur full-stack et de contribuer à créer des expériences numériques significatives."
+   },
+   "professionalExperience": "Expérience professionnelle",
+   "experienceDetails": {
+      "experience1": {
+         "SITS": "Stratosphere IT Services"
+      }
+   },
+   "techStack": "Technologies utilisées",
+   "firstCore1T": "💎 Qualité d'abord",
+   "firstCore1D": "Écrire un code propre et maintenable qui résiste à l'épreuve du temps",
+   "firstCore2T": "🚀 Innovation",
+   "firstCore2D": "Adopter des technologies de pointe pour résoudre des problèmes complexes",
+   "firstCore3T": "🎯 Centré sur l'utilisateur",
+   "firstCore3D": "Chaque décision est prise en pensant à l'expérience de l'utilisateur final",
+   "CoreValue": "Valeurs fondamentales que je suis pendant le développement",
+   "disclaimer": "Avertissement",
+   "disclaimer1t": "Cette application web de portfolio est en cours de développement et ne représente pas la version finale de mon site personnel. Le contenu, le design et les fonctionnalités actuels sont fournis comme un aperçu initial et sont susceptibles de subir des mises à jour et améliorations significatives dans les phases à venir. Avec le temps, je vais ajouter de nouvelles fonctionnalités, améliorer l'expérience utilisateur globale et intégrer un système backend pour rendre la plateforme plus dynamique et interactive.",
+   "disclaimer2t": "Veuillez noter que certaines sections peuvent être incomplètes, du contenu temporaire peut exister et certaines fonctionnalités peuvent ne pas encore être opérationnelles. L'objectif de la publication de cette version est de montrer les bases initiales de mon travail et de donner un aperçu de mes compétences techniques, tout en continuant à affiner et à développer l'application.",
+   "disclaimer3t": "Les mises à jour futures incluront des optimisations de performance, des présentations supplémentaires de projets, des sections de blog/articles, des éléments interactifs et d'autres fonctionnalités avancées pour offrir aux visiteurs une vue complète de mes compétences et capacités.",
+   "disclaimer4t": "Je vous remercie pour votre compréhension et votre patience pendant que je développe activement cette plateforme, et j'ai hâte de présenter une version plus aboutie et riche en fonctionnalités dans un avenir proche.",
+   "featuredProjects": "Projets en vedette",
+   "fetatureDetails": "Une sélection soigneusement curated de mes travaux récents, mettant en avant des solutions innovantes et des approches créatives aux défis du développement web d'aujourd'hui",
+   "workedproject1": "💻 Plus de 10 projets",
+   "workedproject11": "Excellence livrée dans plus de 10 projets. D'autres à venir 🚀",
+   "workedproject2": "💎 Augmentation des revenus commerciaux",
+   "workedproject21": "Stimuler les revenus avec des solutions web modernes",
+   "workedproject3": "❤️ Clients satisfaits",
+   "workedproject31": "Fournir des résultats que les clients apprécient vraiment",
+   "experience1": {
+      "company": "MagicEdTech",
+      "role": "Ingénieur logiciel senior",
+      "startDate": "2025/05",
+      "endDate": "2025/07"
+   },
+   "experience2": {
+      "company": "Stratosphere IT Services",
+      "role": "Ingénieur logiciel senior",
+      "startDate": "2024/07",
+      "endDate": "2025/05"
+   },
+   "experience3": {
+      "company": "Electrovese Solutions Pvt Ltd",
+      "role": "Ingénieur logiciel",
+      "startDate": "2023/09",
+      "endDate": "2024/07"
+   },
+   "experience4": {
+      "company": "Emproto Technologies",
+      "role": "Ingénieur logiciel",
+      "startDate": "2022/01",
+      "endDate": "2023/01"
+   },
+   "detailsUpdateAbout": "Mise à jour détaillée sur les projets",
+   "projectSectionPara2": "Bientôt, vous pourrez explorer les détails complets de chaque projet auquel j'ai contribué. Le contenu que vous voyez ici est régulièrement mis à jour pour refléter mon travail et mes réalisations en cours. Merci pour votre patience et votre intérêt pour mon travail ! Restez à l'écoute pour découvrir d'autres projets passionnants à venir.",
+   "projectSectionPara1": "J'ai travaillé sur plus de 10 projets dans divers domaines, et ce portfolio présente certains de mes travaux les plus récents. Cette section est actuellement en cours de développement car je continue à la mettre à jour avec mes projets récents. Je travaille sur l'intégration du backend pour que tous les nouveaux projets et mises à jour apparaissent dynamiquement sur le site web.",
+   "contacttext1": "Prenez contact",
+   "contacttext2": "J'aimerais avoir de vos nouvelles ! Que ce soit pour une idée de projet, une collaboration ou simplement un coucou.",
+   "generaltext": "Je réponds plus vite que mon café ne refroidit ☕"
+}

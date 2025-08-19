@@ -1,0 +1,25 @@
+.disclaimer{
+    width:900px;
+    height:auto;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap:10px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.title{
+    font-size: 56px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.des{
+      font-size: 32px;
+    font-weight: 400;
+     margin-top: 10px;
+}

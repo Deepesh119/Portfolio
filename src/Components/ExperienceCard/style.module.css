@@ -1,0 +1,44 @@
+.cardContainer{
+    width: 80vw;
+    height: 70px;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cardConatinerHover{
+     width: 80vw;
+    height: 70px;
+    padding: 20px;
+    border-radius: 12px;
+    border: none;
+background: linear-gradient(135deg, #1e3c72, #2a5298, #00c6ff);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+      
+}
+
+.timePeriod{
+    font-size: 24px;
+    font-weight: 400;
+    background-color: transparent;
+}
+
+.companyRole{
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: 400;
+    background-color: transparent;
+
+}
+
+.companyText{
+    font-size: 32px;
+    font-weight: 600;
+    background-color: transparent;
+
+}

@@ -1,0 +1,27 @@
+.projectcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projectCard{
+    height: 600px;
+    width: 800px;
+    border: 1px solid white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    gap:30px;
+}
+.paraText{
+    font-size: 32px;
+    font-weight: 400;
+
+}
+
+.title{
+    font-size: 56px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
