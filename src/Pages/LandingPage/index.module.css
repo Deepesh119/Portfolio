@@ -1,4 +1,4 @@
-.mainContainer{
+.mainContainer {
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -6,48 +6,113 @@
     flex-wrap: wrap;
 }
 
-.section{
-  display: flex;
-  justify-content: space-between;  
-  width: 80%;
-  padding: 40px;
+.section {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    padding: 40px;
 }
 
-.introSection{
+.introSection {
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
 
-.intro{
+.intro {
     font-size: 24px;
 }
 
-.intro2{
+.intro2 {
     font-size: 48px;
 }
 
-.intro3{
+.intro3 {
     font-size: 36px;
 }
 
-.featured{
+.featured {
     font-size: 56px;
     font-weight: 600;
     margin-bottom: 20px;
     margin-top: 20px;
 }
 
-.featureDetail{
-    width:1200px;
+.featureDetail {
+    width: 1200px;
     font-size: 32px;
     font-weight: 400;
     text-align: center;
 }
 
-.projectCard{
+.projectCard {
     display: flex;
-    gap:10px;
+    gap: 10px;
     margin-top: 80px;
     margin-bottom: 20px;
+}
+
+
+
+@media screen and (max-width:1496px) {
+    .section {
+        display: flex;
+        justify-content: space-between;
+        width: 80%;
+        padding: 40px;
+    }
+    .projectCard {
+        display: flex;
+        gap: 10px;
+        margin-top: 80px;
+        margin-bottom: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .featureDetail{
+        width: 80%;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+
+    }
+}
+
+
+
+@media screen and (max-width:1096px) {
+    .section {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        width: 80%;
+        padding: 40px;
+        gap:20px;
+    }
+   
+}
+
+@media screen and (max-width:640px) {
+    .section {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        width: 80%;
+        gap:20px;
+        padding: 0px;
+    }
+   
+}
+
+@media screen and (max-width:500px) {
+     .section {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        width: 80%;
+        gap:20px;
+        padding: 0px;
+    }
+    
 }
