@@ -1,18 +1,18 @@
 .section {
   display: flex;
   flex-direction: column;
-  align-items: center;      
-  overflow-x: hidden;   
+  align-items: center;
+  overflow-x: hidden;
   padding: 20px;
 }
 
-.section > *:first-child {
-  flex: 0 0 28%;             
+.section>*:first-child {
+  flex: 0 0 28%;
 }
 
-.section > *:last-child {
-  flex: 0 0 70%;   
-  flex-wrap: wrap;         
+.section>*:last-child {
+  flex: 0 0 70%;
+  flex-wrap: wrap;
 }
 
 .fadeInLine {
@@ -29,51 +29,87 @@
 }
 
 .profileImg {
-  border-radius: 100%;    
-  object-fit: cover;          
-}
-.headingAbout{
-    font-size: 56px;
-    font-weight: 600;
-    margin-bottom: 20px;
-}
-.articleContent{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-.articlePara1{
-    font-size: 36px;
-    font-weight: 400;
-}
-.mainTechContainer{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    margin-bottom: 50px;
-    margin-top: 30px;
+  border-radius: 100%;
+  object-fit: cover;
 }
 
-.techstackContainer{
+.headingAbout {
+  font-size: 56px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.articleContent {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.articlePara1 {
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.mainTechContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.techstackContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.CoreValueTitle {
+  font-size: 56px;
+  font-weight: 600;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.coreValueCont {
+  width: 1000px;
+  gap: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width:1001px) {
+  .coreValueCont {
+  width: 100%;
+  gap: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+}
+
+@media screen and (max-width:640px) {
+  .techstackContainer {
     display: flex;
     flex-wrap: wrap;
-    width: 800px;
-    gap:10px;
+    width: 100%;
+    gap: 10px;
     justify-content: center;
     align-items: center;
-}
-.CoreValueTitle{
-    font-size: 56px;
-    font-weight: 600;
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
-.coreValueCont{
-    width: 1000px;
-    gap:10px;
+  }
+
+  .coreValueCont {
+    width: 100%;
+    gap: 10px;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+  }
+
 }
