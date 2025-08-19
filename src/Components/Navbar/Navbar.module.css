@@ -64,9 +64,27 @@
 }
 
 
+@media screen and (max-width:945px) {
+    .header{
+        display: flex;
+        height: 90px;
+        justify-content: space-between;
+        align-items: center;
+        gap:80px;
+        padding: 10px;
+    }
+     .main{
+        display: none;
+    }
+}
+
+
 @media only screen and (max-width:769px) {
     .main{
         display: none;
+    }
+    .header{
+        padding: 10px;
     }
 }
 
@@ -76,4 +94,5 @@
   to {background: linear-gradient(135deg, #1e3c72, #2a5298, #00c6ff);
 }
 }
+
 
