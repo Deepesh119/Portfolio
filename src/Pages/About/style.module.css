@@ -31,7 +31,11 @@
 .profileImg {
   border-radius: 100%;
   object-fit: cover;
+  width: 500px;  
+  height: 500px;  
+  transition: all 0.3s ease-in-out;
 }
+
 
 .headingAbout {
   font-size: 56px;
@@ -60,6 +64,16 @@
   margin-top: 30px;
 }
 
+.techStackTitle {
+    font-size: 56px;
+    font-weight: 600;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    transition: all 0.3s ease-in-out;
+}
+
+
 .techstackContainer {
   display: flex;
   flex-wrap: wrap;
@@ -74,6 +88,7 @@
   font-weight: 600;
   margin-top: 50px;
   margin-bottom: 50px;
+  text-align: center;
 }
 
 .coreValueCont {
@@ -86,12 +101,23 @@
 
 @media screen and (max-width:1001px) {
   .coreValueCont {
-  width: 100%;
-  gap: 10px;
-  display: flex;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
+    width: 100%;
+    gap: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
 }
+
+@media screen and (max-width:850px) {
+  .techstackContainer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 @media screen and (max-width:640px) {
@@ -112,4 +138,28 @@
     flex-wrap: wrap;
   }
 
+  .headingAbout {
+    font-size: 32px;
+    margin-bottom: 16px;
+  }
+
+  .articlePara1 {
+    font-size: 20px;
+  }
+
+  .CoreValueTitle {
+    font-size: 32px; 
+    margin-top: 30px;
+    margin-bottom: 30px;
+     text-align: center;
+  }
+
+  .profileImg {
+    width: 200px;  
+    height: 200px; 
+  }
+  .techStackTitle {
+        font-size: 32px; 
+        font-weight: 600;
+    }
 }
