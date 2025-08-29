@@ -90,9 +90,9 @@
 
 
 @keyframes example {
-  from {background-color: black;}
   to {background: linear-gradient(135deg, #1e3c72, #2a5298, #00c6ff);
 }
 }
+
 
 
