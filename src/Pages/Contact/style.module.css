@@ -1,8 +1,6 @@
-/* Contact.module.css */
-
 .container {
-  background-color: #0a0a0a;
-  color: #fff;
+  background-color: var(--bg-color);
+  color: var(--bg-color);
   padding: 60px 20px;
   font-family: 'Poppins', sans-serif;
   max-width: 1000px;
@@ -13,14 +11,14 @@
   font-size: 3rem;
   text-align: center;
   margin-bottom: 20px;
-  color: #fff;
+  color: var(--text-color);
 }
 
 .intro {
   text-align: center;
   font-size: 1.2rem;
   margin-bottom: 40px;
-  color: #ccc;
+    color: var(--text-color);
 }
 
 .contactInfo {
@@ -28,6 +26,7 @@
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 30px;
   margin-bottom: 50px;
+  color: var(--text-color);
 }
 
 .contactInfo h2 {
@@ -36,11 +35,12 @@
 }
 
 .contactInfo a {
-  color: #fff;
+  color:var(--bg-color);
   text-decoration: none;
   transition: color 0.3s ease;
   display: inline-block;
   margin-top: 5px;
+  color: var(--text-color);
 }
 
 .contactInfo a:hover {
@@ -49,10 +49,10 @@
 }
 
 .contactForm {
-  background-color: #121212;
+  background-color: var(--bg-color);
   padding: 30px;
   border-radius: 10px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+  box-shadow: 0 10px 25px var(--bg-color);
   max-width: 600px;
   margin: auto;
   display: flex;
@@ -62,9 +62,9 @@
 
 .contactForm input,
 .contactForm textarea {
-  background-color: #1a1a1a;
-  color: #fff;
-  border: 1px solid #333;
+  background-color:var(--bg-color);
+  color: var(--bg-color);
+  border: 1px solid var(--bg-color);
   border-radius: 5px;
   padding: 12px 15px;
   font-size: 1rem;
@@ -85,7 +85,7 @@ background: linear-gradient(135deg, #ff00cc, #cc00ff, #6600ff);
   padding: 12px 25px;
   font-size: 1.1rem;
   font-weight: bold;
-  color: #000;
+  color: var(--bg-color);
   border-radius: 8px;
   cursor: pointer;
   transition: background 0.4s ease, transform 0.2s ease;
