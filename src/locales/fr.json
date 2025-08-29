@@ -34,11 +34,11 @@
    },
    "techStack": "Technologies utilisées",
    "firstCore1T": "💎 Qualité d'abord",
-   "firstCore1D": "Écrire un code propre et maintenable qui résiste à l'épreuve du temps",
    "firstCore2T": "🚀 Innovation",
-   "firstCore2D": "Adopter des technologies de pointe pour résoudre des problèmes complexes",
    "firstCore3T": "🎯 Centré sur l'utilisateur",
-   "firstCore3D": "Chaque décision est prise en pensant à l'expérience de l'utilisateur final",
+   "firstCore1D": "Écrire un code propre et maintenable qui résiste à l'épreuve du temps, en assurant évolutivité et efficacité tout en privilégiant la lisibilité et les meilleures pratiques. Chaque ligne est conçue pour soutenir la croissance à long terme et une collaboration fluide.",
+   "firstCore2D": "Adopter des technologies de pointe pour résoudre des problèmes complexes, rester à l'avant-garde des tendances du secteur et innover en permanence pour fournir des solutions à fort impact. Nous aimons les défis et les transformons en opportunités d'excellence.",
+   "firstCore3D": "Chaque décision est prise en pensant à l'expérience de l'utilisateur final, en mettant l'accent sur l'utilisabilité, l'accessibilité et un design intuitif. Notre objectif est de créer des interactions fluides et significatives qui enchantent les utilisateurs et favorisent l'engagement.",
    "CoreValue": "Valeurs fondamentales que je suis pendant le développement",
    "disclaimer": "Avertissement",
    "disclaimer1t": "Cette application web de portfolio est en cours de développement et ne représente pas la version finale de mon site personnel. Le contenu, le design et les fonctionnalités actuels sont fournis comme un aperçu initial et sont susceptibles de subir des mises à jour et améliorations significatives dans les phases à venir. Avec le temps, je vais ajouter de nouvelles fonctionnalités, améliorer l'expérience utilisateur globale et intégrer un système backend pour rendre la plateforme plus dynamique et interactive.",
@@ -48,11 +48,11 @@
    "featuredProjects": "Projets en vedette",
    "fetatureDetails": "Une sélection soigneusement curated de mes travaux récents, mettant en avant des solutions innovantes et des approches créatives aux défis du développement web d'aujourd'hui",
    "workedproject1": "💻 Plus de 10 projets",
-   "workedproject11": "Excellence livrée dans plus de 10 projets. D'autres à venir 🚀",
+    "workedproject11": "Livré l'excellence dans plus de 10 projets, dépassant constamment les attentes des clients, en adoptant l'innovation et en établissant de nouvelles normes. Beaucoup d'autres réussites à venir 🚀",
    "workedproject2": "💎 Augmentation des revenus commerciaux",
-   "workedproject21": "Stimuler les revenus avec des solutions web modernes",
+   "workedproject21": "Augmenter les revenus grâce à des solutions web modernes, optimiser les performances, améliorer l'expérience utilisateur et stimuler une croissance mesurable",
    "workedproject3": "❤️ Clients satisfaits",
-   "workedproject31": "Fournir des résultats que les clients apprécient vraiment",
+   "workedproject31": "Fournir des résultats que les clients adorent, avec créativité, précision et un engagement à dépasser les attentes",
    "experience1": {
       "company": "MagicEdTech",
       "role": "Ingénieur logiciel senior",
@@ -82,5 +82,56 @@
    "projectSectionPara1": "J'ai travaillé sur plus de 10 projets dans divers domaines, et ce portfolio présente certains de mes travaux les plus récents. Cette section est actuellement en cours de développement car je continue à la mettre à jour avec mes projets récents. Je travaille sur l'intégration du backend pour que tous les nouveaux projets et mises à jour apparaissent dynamiquement sur le site web.",
    "contacttext1": "Prenez contact",
    "contacttext2": "J'aimerais avoir de vos nouvelles ! Que ce soit pour une idée de projet, une collaboration ou simplement un coucou.",
-   "generaltext": "Je réponds plus vite que mon café ne refroidit ☕"
+   "generaltext": "Je réponds plus vite que mon café ne refroidit ☕",
+   "projectsDone": [
+    {
+      "title": "Joyalukkas",
+      "url": "https://joyalukkas.in/",
+      "type": "Site E-commerce",
+      "role": "Développeur React.js & Next.js",
+      "description": "Développement et maintenance de la plateforme en ligne officielle de Joyalukkas, permettant aux utilisateurs de parcourir, sélectionner et acheter des bijoux facilement. Mise en œuvre d'interfaces réactives, de catalogues de produits interactifs, de paniers et de processus de paiement sécurisés pour améliorer l'expérience utilisateur."
+    },
+    {
+      "title": "Canvas",
+      "url": "https://canvas.space",
+      "type": "Application Web de Divertissement",
+      "role": "Développeur React.js & Next.js",
+      "description": "Travail sur Canvas, une plateforme interactive de divertissement permettant aux utilisateurs d'explorer du contenu multimédia. Création de composants frontend, intégration de contenu dynamique, mise en page réactive et amélioration de l'engagement utilisateur sur tous les appareils."
+    },
+    {
+      "title": "Skynet",
+      "url": null,
+      "type": "Système CRM",
+      "role": "Développeur React.js & Next.js",
+      "description": "Contribution au développement de Skynet CRM, aidant les entreprises à gérer les données clients, les pipelines de vente et les analyses. Mise en place de tableaux de bord, d'outils de reporting et de formulaires interactifs pour améliorer l'efficacité et les interactions clients."
+    },
+    {
+      "title": "Credai",
+      "url": null,
+      "type": "Plateforme CRM pour l'immobilier",
+      "role": "Développeur React.js & Next.js",
+      "description": "Travail sur Credai, une solution CRM pour les promoteurs et courtiers immobiliers. Création de suivi des leads, tableaux de bord de gestion de projets et notifications automatiques pour simplifier les opérations et améliorer la gestion des clients."
+    },
+    {
+      "title": "Ezzup",
+      "url": null,
+      "type": "Solution CRM",
+      "role": "Développeur React.js & Next.js",
+      "description": "Développement de composants frontend pour Ezzup CRM, intégration d'API et création d'interfaces réactives pour gérer efficacement les données clients, les tâches et les analyses sur différents appareils."
+    },
+    {
+      "title": "Factory Grid",
+      "url": "https://www.factorygrid.com/",
+      "type": "Plateforme B2B pour grossistes et distributeurs",
+      "role": "Développeur React.js & Next.js",
+      "description": "Contribution à Factory Grid, une plateforme B2B connectant grossistes, distributeurs et détaillants. Développement de composants UI réactifs, mise en œuvre de listings de produits et optimisation des workflows pour des interactions commerciales fluides."
+    },
+    {
+      "title": "Application de prêt automobile IndusInd Bank",
+      "url": null,
+      "type": "Application Web bancaire et financière",
+      "role": "Développeur React.js & Next.js",
+      "description": "Travail sur l'application web de prêt automobile d'IndusInd Bank, permettant aux clients de postuler, vérifier l'éligibilité et suivre l'état de leur prêt en ligne. Développement de formulaires interactifs, de tableaux de bord et garantie d'une gestion sécurisée et fluide des données."
+    }
+  ]
 }
