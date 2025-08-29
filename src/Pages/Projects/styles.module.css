@@ -1,28 +1,24 @@
-.projectcontainer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.projectsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px; 
 }
 
-.projectCard{
-    height: auto;
-    width: 800px;
-    border: 1px solid white;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    padding: 30px;
-    gap:30px;
-}
-.paraText{
-    font-size: 32px;
-    font-weight: 400;
-
+.cardWrapper {
+  flex: 1 1 calc(33.33% - 20px); 
+  display: flex;
+  justify-content: center;
 }
 
-.title{
-    font-size: 56px;
-    font-weight: 600;
-    margin-bottom: 30px;
+@media (max-width: 1000px) {
+  .cardWrapper {
+    flex: 1 1 calc(50% - 20px); 
+  }
+}
 
+@media (max-width: 640px) {
+  .cardWrapper {
+    flex: 1 1 100%;
+  }
 }
