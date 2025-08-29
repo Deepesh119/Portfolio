@@ -34,11 +34,11 @@
    },
    "techStack": "Tech stacks",
    "firstCore1T": "💎Quality First",
-   "firstCore1D": "Writing clean, maintainable code that stands the test of time",
    "firstCore2T": "🚀Innovation",
-   "firstCore2D": "Embracing cutting-edge technologies to solve complex problems",
    "firstCore3T": "🎯 User-Centric",
-   "firstCore3D": "Every decision is made with the end user's experience in mind",
+   "firstCore1D": "Writing clean, maintainable code that stands the test of time, ensuring scalability and efficiency while keeping readability and best practices at the forefront. Every line is crafted to support long-term growth and seamless collaboration.",
+   "firstCore2D": "Embracing cutting-edge technologies to solve complex problems, staying ahead of industry trends, and continuously innovating to deliver high-impact solutions. We thrive on challenges and turn them into opportunities for excellence.",
+   "firstCore3D": "Every decision is made with the end user's experience in mind, focusing on usability, accessibility, and intuitive design. Our goal is to create seamless and meaningful interactions that delight users and drive engagement.",
    "CoreValue": "Core Values I Follow During Development",
    "disclaimer": "Disclaimer",
    "disclaimer1t": "This portfolio web application is a work in progress and does not represent the final version of my personal website. The current content, design, and features are provided as an initial preview and are subject to significant updates and enhancements in upcoming phases. Over time, I will be adding new functionalities, improving the overall user experience, and integrating a backend system to make the platform more dynamic and interactive.",
@@ -48,11 +48,11 @@
    "featuredProjects": "Featured Projects",
    "fetatureDetails": "A thoughtfully curated showcase of my recent work, highlighting innovative solutions and creative approaches to today’s web development challenges",
    "workedproject1": "💻 10+ Project",
-   "workedproject11": "Delivered excellence in 10+ projects.More to go 🚀",
+   "workedproject11": "Delivered excellence in 10+ projects, consistently exceeding client expectations, embracing innovation, and setting new standards. Many more achievements to come 🚀",
    "workedproject2": "💎 Increased Business Revenue",
-   "workedproject21": "Boosting revenue with modern web solutions",
+   "workedproject21": "Boosting revenue with modern web solutions, optimizing performance, enhancing user experience, and driving measurable growth",
    "workedproject3": "❤️ Happy Clients",
-   "workedproject31": "Delivering results clients truly love",
+   "workedproject31": "Delivering results clients truly love, with creativity, precision, and a commitment to exceeding expectations",
    "experience1": {
       "company": "MagicEdTech",
       "role": "Senior Software Engineer",
@@ -82,6 +82,57 @@
    "projectSectionPara1":"I have worked on 10+ projects across various domains, and this portfolio showcases some of my latest work.This section is currently under progress as I continue to update it with my recent projects.I am working on the backend integration so that all new projects and updates will appear dynamically on the website.",
    "contacttext1":"Get in Touch",
    "contacttext2":" I’d love to hear from you! Whether it’s a project idea, collaboration, or just a hello.",
-   "generaltext":"I respond faster than my coffee cools ☕"
+   "generaltext":"I respond faster than my coffee cools ☕",
+   "projectsDone": [
+    {
+      "title": "Joyalukkas",
+      "url": "https://joyalukkas.in/",
+      "type": "E-commerce Website",
+      "role": "React.js & Next.js Developer",
+      "description": "Developed and maintained the official Joyalukkas online jewellery platform, enabling users to browse, select, and purchase jewellery products seamlessly. Implemented responsive UI components, interactive product catalogues, shopping cart & checkout flows, and secure payment integration to enhance user experience."
+    },
+    {
+      "title": "Canvas",
+      "url": "https://canvas.space",
+      "type": "Entertainment Web Application",
+      "role": "React.js & Next.js Developer",
+      "description": "Worked on Canvas, an interactive entertainment platform that allows users to explore multimedia content. Built frontend components, integrated dynamic content, ensured responsive layouts, and enhanced user engagement across devices."
+    },
+    {
+      "title": "Skynet",
+      "url": null,
+      "type": "CRM System",
+      "role": "React.js & Next.js Developer",
+      "description": "Contributed to the development of Skynet CRM, helping businesses manage customer data, sales pipelines, and analytics. Implemented dashboards, reporting tools, and interactive forms to improve efficiency and client interactions."
+    },
+    {
+      "title": "Credai",
+      "url": null,
+      "type": "CRM Platform for Real Estate",
+      "role": "React.js & Next.js Developer",
+      "description": "Worked on Credai, a CRM solution for real estate developers and brokers. Built lead tracking, project management dashboards, and automated notifications to streamline operations and improve client management."
+    },
+    {
+      "title": "Ezzup",
+      "url": null,
+      "type": "CRM Solution",
+      "role": "React.js & Next.js Developer",
+      "description": "Developed frontend components for Ezzup CRM, integrating APIs and creating responsive user interfaces to manage customer data, tasks, and analytics efficiently across different devices."
+    },
+    {
+      "title": "Factory Grid",
+      "url": "https://www.factorygrid.com/",
+      "type": "B2B Platform for Wholesalers & Distributors",
+      "role": "React.js & Next.js Developer",
+      "description": "Contributed to Factory Grid, a B2B platform connecting wholesalers, distributors, and retailers. Developed responsive UI components, implemented product listings, and optimized workflows for seamless business interactions."
+    },
+    {
+      "title": "IndusInd Bank Vehicle Loan App",
+      "url": null,
+      "type": "Banking & Financial Web Application",
+      "role": "React.js & Next.js Developer",
+      "description": "Worked on the IndusInd Bank Vehicle Loan web application, enabling customers to apply, check eligibility, and track loan status online. Developed interactive forms, dashboards, and ensured secure and smooth data handling."
+    }
+  ]
    
 }
