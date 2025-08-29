@@ -4,6 +4,7 @@ import ButtonView from "../../Components/Button1/Button";
 import Terminal from "../../Components/Terminal";
 import useLanding from "./uselandingPage.hook";
 import Corecard from "../../Components/Cardvalues/Corecard";
+import Experience from "../../Components/PreviousExperience/Experience";
 
 const LandingPage = () => {
 
@@ -54,6 +55,7 @@ const LandingPage = () => {
               })
             }
       </div>
+      <Experience/>
     </main>
   )
 }
