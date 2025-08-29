@@ -52,7 +52,13 @@ const About =()=>{
     <section className={styles.section}>
       <span aria-label="About Deepesh" className={styles.headingAbout}>{t("Professional").toLocaleUpperCase()}</span>
       <aside>
-        <img src={profileImage} alt="Deepesh Image" style={{height:"500px",width:"500px"}} className={styles.profileImg} aria-label="Profile Image"/>
+        <img 
+          src={profileImage} 
+          alt="Deepesh Image" 
+          className={styles.profileImg} 
+          aria-label="Profile Image"
+        />
+
       </aside>
       <article className={styles.articleContent}>
         {lines.map((line, index) => (
@@ -66,7 +72,7 @@ const About =()=>{
       </article>
     </section>
      <Experience/>
-     <span style={{fontSize:"56px",fontWeight:600,width:"100%",display:"flex",justifyContent:"center"}}>{t('techStack').toLocaleUpperCase()}</span>
+    <span className={styles.techStackTitle}>{t('techStack').toLocaleUpperCase()}</span>
      <div className={styles.mainTechContainer}>
         <div className={styles.techstackContainer}>
         {
