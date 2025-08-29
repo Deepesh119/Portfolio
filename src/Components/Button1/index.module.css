@@ -1,16 +1,29 @@
-.textColor{
+.textColor {
     color: white !important;
 }
 
-.textColor:hover{
+.textColor:hover {
     color: white !important;
 }
 
-.btnstyle{
-  background: linear-gradient(135deg, #1e3c72, #2a5298, #00c6ff);  width:300px;
-  height: 50px;
-  border-radius: 10px;
-  border: 1px solid white;
-  font-size: 24px;
-  font-weight: 500;
+.btnstyle {
+    background: linear-gradient(135deg, #1e3c72, #2a5298, #00c6ff);
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid white;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+@media (max-width: 640px) {
+    .btnstyle {
+        width: calc(100% - 32px); 
+        height: 45px;             
+        font-size: 20px;         
+        margin: 0 auto;           
+        display: block;
+    }
 }
