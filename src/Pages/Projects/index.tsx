@@ -23,7 +23,7 @@ const ProjectsSection = () => {
 
     return (
         <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center" }}>
-            {projectsList.map((project, index) => (
+            {projectsList.map((project) => (
                     <ProjectCard
                         title={project.title}
                         stack={project.stack}
@@ -36,3 +36,4 @@ const ProjectsSection = () => {
 };
 
 export default ProjectsSection;
+
