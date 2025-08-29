@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
-import styles from "./index.module.css"
+import styles from "./Index.module.css"
 
 const LanguageSelector = () => {
   const { i18n } = useTranslation();
@@ -44,4 +44,5 @@ const LanguageSelector = () => {
 };
 
 export default LanguageSelector;
+
 
